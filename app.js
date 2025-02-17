@@ -1,4 +1,6 @@
 let etiquetaH1 = document.querySelector('h1');
-titulo.innerHTML = "Hora del desafío";
+etiquetaH1.innerHTML = "Hora del desafío";
 
-
+function mostrarMensaje () {
+    console.log("El botón fue clicado");
+}

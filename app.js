@@ -9,3 +9,7 @@ function mostrarCiudad() {
     ciudad = prompt("Ingresa el nombre de una ciudad de brasil: ")
     alert(`Estuve en ${ciudad} y me acordé de ti.`)
 }
+
+function mensaje (){
+    alert("Yo amo JS");
+}
